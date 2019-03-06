@@ -12,10 +12,10 @@
         "shims.d.ts",
         "kanas.cpp",
         "_locales/ja/kana-strings.json"
-
     ],
     "testFiles": [
         "test.ts"
     ],
-    "public": true
+    "public": true,
+    "installedVersion": "workspace:de8db373-2f0f-4c4e-6484-38d5ac972ab2"
 }
